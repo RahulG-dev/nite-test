@@ -1,0 +1,44 @@
+body{
+    background: #F8F7FF;
+    background: center;
+}
+.header{
+
+    height: 255px;   
+    background-image:url(../../assets/img-assets/Pattern.svg) ;
+
+ 
+}
+.details{
+    position: relative;
+top: 131px;
+}
+
+
+.card{
+    font-family: Montserrat, Regular;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 4px;   
+    height: 60px;
+    box-shadow: 0 2px 5px 0 rgba(211, 209, 238, 0.5);
+    width: 481px;
+  
+
+}
+.arrow img{
+width: 100%;
+}
+.book-type{
+   width: 15%;
+    
+}
+
+h1{
+    font-family: Monteserrat;
+    font-size: 48p;
+    font-weight: 600;
+    color: #5E56E7;
+
+}
